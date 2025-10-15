@@ -23,7 +23,7 @@ El objetivo fue implementar un **administrador de memoria virtual con paginació
 ### ⚙️ Compilación y ejecución
 
 ```bash
-git clone <tu-repo-url>
+git clone https://github.com/ErikEckell/virtual-memory-page-faults
 cd virtmem
 make
 ./virtmem -n 100 -f 10 -a fifo -p scan
@@ -66,7 +66,7 @@ The goal was to implement a **virtual memory manager with demand paging**, simul
 ### ⚙️ Build and run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ErikEckell/virtual-memory-page-faults
 cd virtmem
 make
 ./virtmem -n 100 -f 10 -a fifo -p scan
