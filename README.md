@@ -1,6 +1,6 @@
 # 🧠 Virtual Memory - Page Fault Management  
-### 💻 Tarea 2 — Memoria Virtual: Manejo de faltas de página  
-### 💻 Assignment 2 — Virtual Memory: Page Fault Handling
+### 💻 Memoria Virtual: Manejo de faltas de página  
+### 💻 Virtual Memory: Page Fault Handling
 
 ---
 
